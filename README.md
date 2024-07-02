@@ -6,7 +6,7 @@
 - This project aims to look into another avenue in which generative AI can provide producers with inspiration, specifically from imagery. 
 - The end goal of this project **is to allow producers to insert their own music audio into the application and the application returns these users an image based off traits that are extracted from the audio snippet. Traits such as emotion, tempo, genre** etc.
 ## 1.3. Overall Workflow
-- ![workflow](workflow.png)
+![workflow](workflow.png)
 - The user simply inputs their audio file into the web application and the application returns them text descriptions of the audio file (emotion, tempo and genre). The text description is then fed into the image generation model to generate an image.
 
 ## 1.4. Video Demonstration
